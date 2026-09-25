@@ -31,7 +31,9 @@
 
 ## Vibe & visual style (most important)
 The client wants **clean, dialed pages with their own vibe, not random memes.**
-Style references he likes: @amirobarbershops, @rizhaya.boroda, @chep.cuts.ov
+Style references he likes: @amirobarbershops, @sotatoronto, @rizhaya.boroda, @chep.cuts.ov
+- **Primary aesthetic only.** Every visual choice (shots, light, grade, text, pacing) follows these pages. Don't mix in other styles or trend formats.
+- **Reference links come only from these pages, or other pages with the same clean, cinematic vibe.** No viral or meme-style barber accounts, even if the topic matches. If nothing on-vibe fits a row, write "(add a reel you like)".
 - Calm, confident, cinematic. The work speaks.
 - **No:** memes, emoji on screen or in captions, trending meme audio, reaction faces, zoom punches, green screen, "tag your girlfriend" style bait.
 - Camera: vertical, 24/25 fps, tripod or slow handheld, slow push-ins, close-ups of hands / clippers / comb / neckline.
