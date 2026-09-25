@@ -7,7 +7,7 @@
 - **Owner / main barber:** Esen. He is the face of the page and the main character in videos.
 - **Team:** Aziz, Atai, Joldosh (barbers). All can be on camera; Esen leads.
   - **Atai and Joldosh:** short lines only (a CTA or one sentence, e.g. "Book through the link in bio."). No long explanations or voiceovers.
-  - **Aziz:** no speaking limit given yet (confirm).
+  - **Aziz:** can do full explanations and voiceovers, like Esen.
 - **Location:** Mount Prospect, IL (northwest Chicago suburbs). Use "Mount Prospect" wherever templates say `[SUBURB]`.
 - **Nearby areas to name in captions/VO:** Arlington Heights, Des Plaines, Prospect Heights, Elk Grove Village, Schaumburg, Palatine, Park Ridge, Chicago.
 - **Goals:** get clients in Chicago and become known in the Chicago suburbs (local fame + leads/bookings).
@@ -66,7 +66,7 @@ Mostly silent before/after clips with hype captions (@j_da_barberr Berwyn, Schau
 
 ## Open questions (fill in with the client)
 - [ ] Street address (for location tag / Google Business Profile)
-- [ ] Is Esen comfortable doing long voiceovers? Can Aziz do full explanations?
+- [ ] Is Esen comfortable doing long voiceovers?
 - [ ] Booking platform + link; prices; gift cards?
 - [ ] Instagram handle and current follower count
 - [ ] Esen's founder story interview (8 questions are in the V3 page in Notion)
