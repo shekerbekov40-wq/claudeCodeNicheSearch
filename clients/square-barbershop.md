@@ -24,9 +24,10 @@
 - The main page also holds a *Visual style* section and a *Research summary*. Keep them up to date.
 
 ## Segments (рубрики)
+**For now (from Sep 25, 2026): minimal talking, illustrative content.** No voiceovers and no talking to camera. Every breakdown is shown visually (comb and hands marking the decision, before/after, reference photo next to the result) and explained with one short on-screen line at a time. Real sound only. The team speaking rules above apply again only if the client asks for talking videos.
 1. **Celebrity breakdowns:** use a Chicago angle when possible (e.g. *The Bear* is filmed in Chicago).
-2. **Breakdown during a haircut:** the barber explains his decisions while cutting (head shape, growth pattern, lifestyle).
-3. **Hero's journey (founder):** his real story, from an interview. Pin to the profile.
+2. **Breakdown during a haircut:** the barber's decisions while cutting (head shape, growth pattern, lifestyle), shown with the comb and hands and explained in on-screen text.
+3. **Hero's journey (founder):** his real story, from an interview, told as a quiet visual documentary with short text lines (no voiceover). Pin to the profile.
 4. **Hairstyle breakdowns:** education (taper vs fade, styling at home, what to ask for).
 
 ## Vibe & visual style (most important)
@@ -45,7 +46,7 @@ Style references he likes: @amirobarbershops, @sotatoronto, @rizhaya.boroda, @ch
 - Camera: vertical, 24/25 fps, tripod or slow handheld, slow push-ins, close-ups of hands / clippers / comb / neckline.
 - Light: one soft light at 45°, clean background, counter cleared.
 - Color: one consistent grade (slightly warm, muted, soft contrast) across every post.
-- Sound: original audio: real clipper/scissor sound + the barber's calm voiceover, or one slow instrumental at low volume.
+- Sound: original audio: real clipper/scissor/spray sound, or one slow instrumental at low volume. No voiceover for now.
 - On-screen text: one line at a time, one clean sans font, same size/position, white, lowercase, no emoji.
 - End card on every video: *Square Barbershop · Mount Prospect, IL · booking in bio*
 - Captions: 2–3 short sentences, no emoji, 3–5 hashtags (1 broad, 2 local, 1–2 niche), shop location tag.
@@ -74,7 +75,6 @@ Mostly silent before/after clips with hype captions (@j_da_barberr Berwyn, Schau
 
 ## Open questions (fill in with the client)
 - [ ] Street address (for location tag / Google Business Profile)
-- [ ] Is Esen comfortable doing long voiceovers?
 - [ ] Booking platform + link; prices; gift cards?
 - [ ] Instagram handle and current follower count
 - [ ] Esen's founder story interview (8 questions are in the V3 page in Notion)
