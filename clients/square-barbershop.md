@@ -35,6 +35,12 @@ Style references he likes: @amirobarbershops, @sotatoronto, @rizhaya.boroda, @ch
 - **Primary aesthetic only.** Every visual choice (shots, light, grade, text, pacing) follows these pages. Don't mix in other styles or trend formats.
 - **Reference links come only from these pages, or other pages with the same clean, cinematic vibe.** No viral or meme-style barber accounts, even if the topic matches. If nothing on-vibe fits a row, write "(add a reel you like)".
 - Calm, confident, cinematic. The work speaks.
+- **Reference bank** (on-vibe pages, found by web search Sep 25, 2026, **not watched yet**; confirm before relying on them):
+  - @sotatoronto: https://www.instagram.com/sotatoronto/reel/DYdd3jgAazV/ ("Trust your barber")
+  - @hairbydurden (owner of Sota): https://www.instagram.com/hairbydurden/reel/DSc2barEy3w/ (mod cut breakdown) · https://www.instagram.com/hairbydurden/reel/C-LLsNmuFD5/
+  - @amirobarbershops: https://www.instagram.com/amirobarbershops/reel/DKFHP6Go79d/
+  - @rizhaya.boroda: https://www.instagram.com/reel/DP9DT4REh8Q/ · https://www.instagram.com/rizhaya.boroda/reel/CkvHFpLsWbb/
+  - @chep.cuts.ov: https://www.tiktok.com/@chep.cuts.ov/video/7509235969103580438
 - **No:** memes, emoji on screen or in captions, trending meme audio, reaction faces, zoom punches, green screen, "tag your girlfriend" style bait.
 - Camera: vertical, 24/25 fps, tripod or slow handheld, slow push-ins, close-ups of hands / clippers / comb / neckline.
 - Light: one soft light at 45°, clean background, counter cleared.
@@ -72,5 +78,6 @@ Mostly silent before/after clips with hype captions (@j_da_barberr Berwyn, Schau
 - [ ] Booking platform + link; prices; gift cards?
 - [ ] Instagram handle and current follower count
 - [ ] Esen's founder story interview (8 questions are in the V3 page in Notion)
-- [ ] Reference reels for founder-story and styling videos (V3, V5)
+- [ ] Reference reel for the founder story (V3), from an on-vibe page
+- [ ] Watch the reference-bank reels and drop any that don't match the vibe
 - [ ] Products the shop uses/sells (for styling videos)
